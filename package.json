@@ -1,0 +1,17 @@
+{
+  "name": "antd-meteor-1.6.0.1-bug",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "meteor-node-stubs": "^0.3.2"
+  },
+  "devDependencies": {
+    "antd": "^3.2.3",
+    "babel-plugin-import": "^1.6.6",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
